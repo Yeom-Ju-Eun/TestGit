@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-efgh
-=======
-abcd
->>>>>>> 9b2b5da101157dc6bbe0c95f5835a7cc641e770e
+Scanner
+String abc
